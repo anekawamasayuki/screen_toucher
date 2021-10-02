@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "toucher"
+version = "0.1.0"
+description = ""
+authors = ["anek"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+"RPi.GPIO" = "^0.7.0"
+
+[tool.poetry.dev-dependencies]
+ipython = "^7.27.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
