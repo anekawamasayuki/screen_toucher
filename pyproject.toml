@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "toucher"
+name = "screen-toucher"
 version = "0.1.0"
-description = ""
-authors = ["anek"]
+description = "Screen Toucher for Raspberry Pi"
+authors = ["manekawa"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
