@@ -3,7 +3,6 @@
 ## Prerequisite
 
 - poetry
-- RPi.GPIO
 
 ## Install
 
